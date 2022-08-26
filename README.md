@@ -1,4 +1,4 @@
-**NOTE:** this is the .Net6 version. .Net5 version is in this repository: https://github.com/WilliamSimoni/BeerApi.Net5-version-
+**NOTE:** this is the .Net5 version. .Net6 version is in this repository: https://github.com/WilliamSimoni/BeerApi
 
 # Architecture
 
