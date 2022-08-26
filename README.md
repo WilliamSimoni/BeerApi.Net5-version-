@@ -63,7 +63,6 @@ For each test, I used:
 - The entities' data was stored in a SQL server database. To run the project, change the connection string in appsetting.json. 
 - The app initializes and seeds the database when you first start it.
 - To map DTOs to entities and vice versa, I used the Mapster library.
-- Logs are written in a log file using the Serilog library.
 - Error responses from the server follow the RFC standard (https://tools.ietf.org/html/rfc7807).
 
 # API doc
